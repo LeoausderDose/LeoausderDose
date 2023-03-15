@@ -1,6 +1,6 @@
 
-<p>💡 Physicist: organic semiconductors <br>
-🌱  I am writing my bachelor thesis at the University of Bayreuth, Germany <br>
+<p>💡 Physicist <br>
+🌱 I am interested in organic semiconductors, nanophysics, environmental physics and modelling of social systems  <br>
 📫 How to reach me: leonhard.schatt@uni-bayreuth.de<br>
 📚 Languages: Python, C++, FORTRAN  </p>
 <!--
